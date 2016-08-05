@@ -1,0 +1,17 @@
+HTML5  CSS3 
+Bootstracp
+sgreatput
+javascript
+w3c
+VMware workstation
+virtual Box
+id(. #)
+选择器（选中，获取）
+W3C 
+虚拟机（组件先勾着）安装
+页面的优化
+
+
+git版本控制系统，管理项目代码，是一个网站，提供一个平台，下载安装
+github提供一个平台，注册一个账号
+开源中国，把项目管理和代码管理合在一起。
